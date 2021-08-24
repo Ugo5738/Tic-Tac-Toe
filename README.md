@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This is a simple Tic Tac Toe game written in python language
+This is a Tic Tac Toe game written in python language
